@@ -12,6 +12,32 @@
  - *Signal Processing & Time Series*
  - *Advanced Mathematics*
 
+
+## Programming Languages
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql&logoColor=white)
+![Prolog](https://img.shields.io/badge/-Prolog-purple?style=flat-square&logo=prolog&logoColor=white)
+
+## Tools & Frameworks
+![PyTorch](https://img.shields.io/badge/-PyTorch-white?style=flat-square&logo=Pytorch)
+![scikit-learn](https://img.shields.io/badge/-sklearn-black?style=flat-square&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-blue?style=flat-square&logo=opencv&logoColor=green)
+![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=flat-square&logo=jupyter)
+![pandas](https://img.shields.io/badge/-pandas-navy?style=flat-square&logo=pandas)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?style=flat-square&logo=tensorflow)
+![git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
+![ZMQ](https://img.shields.io/badge/-ZeroMQ-red?style=flat-square&logo=zeromq)
+![MQTT](https://img.shields.io/badge/-MQTT-purple?style=flat-square&logo=mqtt)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-orange?style=flat-square&logo=amazon-aws)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-blue?style=flat-square&logo=android)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=Grafana)
+![Firebase](https://img.shields.io/badge/-Firebase-blue?style=flat-square&logo=firebase)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+
+
 ## Contact
 [![Linkedin Badge](https://img.shields.io/badge/-AdrianIordache-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-razvan-iordache/)](https://www.linkedin.com/in/adrian-razvan-iordache/)
 [![Gmail Badge](https://img.shields.io/badge/-adrian.razvan.iordache@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrian.razvan.iordache@gmail.com)](mailto:adrian.razvan.iordache@gmail.com)
@@ -55,6 +81,14 @@
 | [Hello World](https://github.com/AdrianIordache/HelloWorld)  | *Android Chat App Developed with Firebase Database & Storage* |
 | [The Fat Fish](https://github.com/AdrianIordache/TheFatFish)  | *Game Project for Android*   |
 
+
+<!-- <p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AdrianIordache&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianIordache&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=AdrianIordache&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p> -->
 
 <!--
 **AdrianIordache/AdrianIordache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
