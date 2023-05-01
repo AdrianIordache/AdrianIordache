@@ -30,12 +30,16 @@
 ![git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![ZMQ](https://img.shields.io/badge/-ZeroMQ-red?style=flat-square&logo=zeromq)
+
+
+<!-- 
 ![MQTT](https://img.shields.io/badge/-MQTT-purple?style=flat-square&logo=mqtt)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-orange?style=flat-square&logo=amazon-aws)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-blue?style=flat-square&logo=android)
 ![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=Grafana)
 ![Firebase](https://img.shields.io/badge/-Firebase-blue?style=flat-square&logo=firebase)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask) 
+-->
 
 
 ## Contact
