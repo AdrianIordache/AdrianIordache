@@ -11,7 +11,9 @@
  - *Probability & Statistics*
  - *Signal Processing & Time Series*
  - *Advanced Mathematics*
-  
+
+***If you are a student in Artificial Intelligence, maybe [this](https://github.com/AdrianIordache/AI-Masters-Projects) can help you.***
+
 ## Computer Vision
 | Project  | Description |
 | ------------- | ------------- |
@@ -41,7 +43,7 @@
 | [Problem Solving and Search](https://github.com/AdrianIordache/Problem-Solving-and-Search)  | *Solving games based on search algorithms* |
 
 ## Android Projects
-***Projects using Firebase Database and Storage are no longer maintained due to security issues***
+***Projects using Firebase Database and Storage are no longer maintained due to security issues.***
 | Project  | Description |
 | ------------- | ------------- |
 | [PerfectTime](https://github.com/AdrianIordache/PerfectTime)  | *Social Network Android App with NewsFeed, developed with Firebase Database & Storage*  |
