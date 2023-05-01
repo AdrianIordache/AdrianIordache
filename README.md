@@ -12,6 +12,11 @@
  - *Signal Processing & Time Series*
  - *Advanced Mathematics*
 
+## Contact
+[![Linkedin Badge](https://img.shields.io/badge/-AdrianIordache-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-razvan-iordache/)](https://www.linkedin.com/in/adrian-razvan-iordache/)
+[![Gmail Badge](https://img.shields.io/badge/-adrian.razvan.iordache@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrian.razvan.iordache@gmail.com)](mailto:adrian.razvan.iordache@gmail.com)
+[![Kaggle Badge](https://img.shields.io/badge/-AdrianIordache-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianiordache/)](https://www.kaggle.com/adrianiordache/)
+
 ***If you are a student in Artificial Intelligence, maybe [this](https://github.com/AdrianIordache/AI-Masters-Projects) can help you.***
 
 ## Computer Vision
