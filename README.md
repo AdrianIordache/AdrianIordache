@@ -30,12 +30,11 @@
 ![git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![ZMQ](https://img.shields.io/badge/-ZeroMQ-red?style=flat-square&logo=zeromq)
 ![Firebase](https://img.shields.io/badge/-Firebase-blue?style=flat-square&logo=firebase)
-![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex)
-
 
 <!-- 
+![ZMQ](https://img.shields.io/badge/-ZeroMQ-red?style=flat-square&logo=zeromq)
+![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex)
 ![MQTT](https://img.shields.io/badge/-MQTT-purple?style=flat-square&logo=mqtt)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-orange?style=flat-square&logo=amazon-aws)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-blue?style=flat-square&logo=android)
@@ -43,7 +42,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-blue?style=flat-square&logo=firebase)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask) 
 -->
-
 
 ## Contact
 [![Linkedin Badge](https://img.shields.io/badge/-AdrianIordache-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-razvan-iordache/)](https://www.linkedin.com/in/adrian-razvan-iordache/)
