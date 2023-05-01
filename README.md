@@ -29,8 +29,10 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?style=flat-square&logo=tensorflow)
 ![git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![ZMQ](https://img.shields.io/badge/-ZeroMQ-red?style=flat-square&logo=zeromq)
 ![Firebase](https://img.shields.io/badge/-Firebase-blue?style=flat-square&logo=firebase)
+![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex)
 
 
 <!-- 
