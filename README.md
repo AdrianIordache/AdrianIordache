@@ -2,7 +2,7 @@
 
 ## My name is Adrian Iordache 
 
- - *Senior Machine Learning and Computer Vision Engineer at idrive AI*
+ - *Senior Machine Learning and Computer Vision Engineer at Grab (Contractor)*
  - *Ph.D. student in Artificial Intelligence at Univeristy of Bucharest*
  - *Proficient in Machine Learning, Computer Vision and Deep Learning*
 
